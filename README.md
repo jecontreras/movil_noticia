@@ -23,3 +23,6 @@ deploy pwa
 5. ionic build --prod --service--worker
 6. 
 
+desarrolo
+
+ionic serve
